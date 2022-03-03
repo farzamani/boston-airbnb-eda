@@ -2,10 +2,10 @@
 Exploratory data analysis of Boston Airbnb dataset.
 
 ### Table of Content
-1. [What is this project?](What is this project?)
-2. [Installation]
-3. [File Description]
-4. [Results]
+1. [What is this project?](https://github.com/farzamani/boston-airbnb-eda/blob/main/README.md#what-is-this-project)
+2. [Installation](https://github.com/farzamani/boston-airbnb-eda/blob/main/README.md#installation)
+3. [File Description](https://github.com/farzamani/boston-airbnb-eda/blob/main/README.md#file-description)
+4. [Results](https://github.com/farzamani/boston-airbnb-eda/blob/main/README.md#results)
 
 ## What is this project?
 Long story short, imagine there is a housing company that wants to invest their money to become a host in Boston Area and make a listing in Airbnb. Let’s say the budget is not an issue and they wish to make a lot of income out of their investment.
