@@ -2,7 +2,7 @@
 Exploratory data analysis of Boston Airbnb dataset.
 
 ### Table of Content
-1. [What is this project?](## What is this project?)
+1. [What is this project?](What is this project?)
 2. [Installation]
 3. [File Description]
 4. [Results]
